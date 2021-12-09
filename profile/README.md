@@ -13,7 +13,8 @@
 ## 🎨 프로젝트 소개
 
 - 프로젝트명은 "여행엔" 이라는 생각에서 시작하여 TripN으로 정하게 되었습니다.
-다양한 여행의 유형에 맞추어 제주도를 경험할 수 있도록 하였으며, 그 과정을 인공지능을 이용하여 찾아보고 고민할 필요 없이 몇번의 클릭으로 결정할 수 있도록 하였습니다.
+인공지능을 활용하여, 여행자가 직접 찾아보고 고민할 필요 없이 몇번의 클릭으로, 개인의 특색에 맞추어 제주도를 경험할 수 있는 서비스를 제공합니다.
+
 
   <br />
 
@@ -22,10 +23,10 @@
 ### 2021. 11. 01 ~ 12. 03 (4~5주)
 
 
-- 1주 차 : 전 페이지 UI 컴포넌트 레이아웃 마크업 작업 및 DB 구축 
-- 2주 차 : 
-- 3주 차 : 
-- 4주 차 : 
+- 1주 차 : base outline components created 
+- 2주 차 : importing in csv datasets to create dataform models
+- 3주 차 : implement each function
+- 4주 차 : AWS TEST
 - 5주 차 : 
 
 <br />
@@ -33,29 +34,41 @@
 ## 🌹 t e c h 🌹
 
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Joowon0220/TODO-List) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Joowon0220/fullPage) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/Joowon0220/svelte)
-<br>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
+ <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+ <br>
+ <img src="https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+ <br/>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ <br/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/>
+ <br/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+ <br/>
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
-[![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/Joowon0220/My-app) [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/Joowon0220/NodeJS) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/Joowon0220/React_Login)
-<br>
-
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Joowon0220/weather) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
-<br>
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)  [![MS SQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white)](https://github.com/Joowon0220/Spring_Weather) [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
-<br><br><br>
 
 
-<br>
+
+<br><br>
 
 ## 👩🏻‍🎤 팀 소개
 
-| 팀명   |        TripN        |
-| ------ | ------------------- |
-| 프론트 | 이영은 (테크리더)     |
-| 백엔드 | 김민지 (팀 리더)      |
-| 백엔드 | 유지혜 (테크리더)     |
-| 백엔드 | 윤여진 (테크리더)     |
+| 팀명   |        TripN        |          part          |
+| ------ | ------------------- | ------------------- |
+| 프론트 | 이영은 (테크리더)     |  FRONT _ ALL  |
+| 백엔드 | 김민지 (팀 리더)      |  💬 챗봇, 👍 추천  |
+| 백엔드 | 유지혜 (테크리더)     |  📊 admin, 💰 결제  |
+| 백엔드 | 윤여진 (테크리더)     | 📜 게시판, 🔐 user(보안) |
 
 <br>
 
