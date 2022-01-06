@@ -20,14 +20,14 @@
 
 ## 📅 개발 기간
 
-### 2021. 11. 01 ~ 12. 03 (4~5주)
+### 2021. 11. 01 ~ 12. 31 (6~7주)
 
 
 - 1주 차 : base outline components created 
 - 2주 차 : importing in csv datasets to create dataform models
 - 3주 차 : implement each function
-- 4주 차 : AWS TEST
-- 5주 차 : 
+- 4주 차 : DOCKER 구축
+- 5주 차 : AWS 구축
 
 <br />
 
