@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TripN_README🎨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TripN_README&fontSize=70)
 <div align=center>
 
 # ✨ TripN ✨
@@ -24,24 +24,25 @@
 
 
 - 1 주 차 : 담당 페이지 UI 컴포넌트 레이아웃 마크업 작업 
-- 2-3 주 차 : ERD 작성 및 DB 구축 
-- 4-5 주 차 : 데이터 수집 및 분류화 작업
-- 5-6 주 차 : 개인화 추천 시스템 구현
+- 2-3 주 차 : ERD 작성 및 DB 구축 / 전체 페이지 merge 및 수정 css 스타일 작업 진행
+- 4-5 주 차 : 데이터 수집 및 분류화 작업 / css 스타일 작업 진행
+- 5-6 주 차 : 개인화 추천 시스템 구현, 결제 시스템 구현 등 전체적 서비스 구현 /<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서버와의 연결 및 연결로 인한 값의 오류 수정
 - 7 주 차 : DOCKER
 - 8 주 차 : AWS 연결
 
 <br />
 
 ## 🌹 t e c h 🌹
-| 프레임워크     | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/> <img src="https://img.shields.io/badge/React%20/%20React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+| 프레임워크     | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 | 사용 언어      | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 
-| 데이터베이스   | <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+| 데이터베이스   | <img src="https://img.shields.io/badge/RDS-003545?style=flat-square&logo=amazon&logoColor=black"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
-| 작업 환경 세팅 | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=black"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+| 작업 환경 세팅 | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=black"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 
-| 개발 툴        | <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=yellow"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=critical"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+| 개발 툴        | <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=critical"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=yellow"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 
 <br><br>
@@ -66,5 +67,3 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FProjetTripN&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-
-Give a ⭐️ if this project helped you!
